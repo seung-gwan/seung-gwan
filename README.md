@@ -5,6 +5,8 @@
 
 **[포트폴리오 전체 보기](https://github.com/seung-gwan/portfolio)** · **[학습 기록](https://github.com/seung-gwan/portfolio/blob/main/learning/README.md)**
 
+[기존 GitHub 작업 전체 목록 — 공개 저장소 12개](https://github.com/seung-gwan/portfolio/blob/main/github-projects.md)
+
 ## 프로젝트
 
 | 결과물 | 다룬 내용 | 바로 보기 |
@@ -26,5 +28,7 @@
 | [Unreal Engine](https://github.com/seung-gwan/portfolio/blob/main/learning/unreal-engine.md) | 3월부터 6월까지의 환경 제작 과정, 2개 프로젝트의 맵 자료 |
 | [PyTorch · 생성형 AI](https://github.com/seung-gwan/portfolio/blob/main/learning/generative-ai.md) | 조건부 DDPM 이모지 생성 실습과 학습 로그 |
 | [HTML · CSS · JavaScript](https://github.com/seung-gwan/portfolio/blob/main/learning/web-basics.md) | 웹 기초 예제와 레이아웃 실습 |
+| [웹 페이지 제작](https://github.com/seung-gwan/portfolio/blob/main/learning/web-archive.md) | 반응형·기업형·모바일 웹과 정보 탐색 페이지 |
+| [Git · Markdown](https://github.com/seung-gwan/portfolio/blob/main/learning/git-basics.md) | 편집기 연결, 브랜치 실습과 자기소개 작성 |
 
 프로젝트별 실행 방법과 현재 범위는 각 설명에 정리했습니다. 학교 수업을 바탕으로 한 예제는 학습 기록으로 소개합니다.
