@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/seung-gwan/portfolio/main/assets/banner.svg" alt="Seung Gwan — Learning into projects" width="100%" />
-
 # 안녕하세요, 유승관입니다.
 
 소프트웨어를 공부하며 웹 서비스, Java 프로그램, 게임과 AI 실습으로 배운 내용을 확인하고 있습니다.
