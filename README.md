@@ -13,6 +13,10 @@
 | --- | --- | --- |
 | **Smart Farm** | JavaScript 대시보드, 작물 데이터, 환경 제어 시뮬레이션, PWA | [화면 체험](https://seung-gwan.github.io/smart-farm/) · [코드](https://github.com/seung-gwan/smart-farm) · [정리](https://github.com/seung-gwan/portfolio/blob/main/projects/smart-farm.md) |
 | **중고차 웹 프로젝트** | Java · JSP · Servlet · MySQL, MVC 구조, 회원·차량·후기 CRUD | [코드](https://github.com/seung-gwan/web_) · [정리](https://github.com/seung-gwan/portfolio/blob/main/projects/jsp-car-market.md) |
+| **손오공 · Unity 팀 프로젝트** | 3개 레인 이동, 공격·방어, 낙하물, 체력·점수·게임오버 | [시연](https://github.com/seung-gwan/game-dev-studies/releases/download/showcase-2026-06/unity-final-gameplay.mp4) · [코드·제작 과정](https://github.com/seung-gwan/game-dev-studies/tree/main/unity/project_New) |
+| **Unreal Engine 환경 제작** | 실내 조명, 지형·건물, 마을·도시 장면과 아포칼립스 구상 | [날짜별 과정](https://github.com/seung-gwan/game-dev-studies/blob/main/docs/unreal-timeline.md) · [맵 자료](https://github.com/seung-gwan/game-dev-studies/tree/main/unreal) |
+
+손오공은 **공동 기획 / 게임 구현 전반: 유승관 / 이미지 디자인: 이승훈**으로 진행한 2인 팀 프로젝트입니다.
 
 ## 공부한 내용과 결과물
 
@@ -20,7 +24,8 @@
 | --- | --- |
 | [Java · 객체지향 · Swing](https://github.com/seung-gwan/portfolio/blob/main/learning/java.md) | 계좌 모델과 전화번호부 프로그램 |
 | [Python · 자료구조 · 문자열](https://github.com/seung-gwan/portfolio/blob/main/learning/python.md) | 이진 탐색 트리와 문자 코드 변환 실습 |
-| [Unity · C#](https://github.com/seung-gwan/portfolio/blob/main/learning/unity.md) | 자동차 조작·거리 표시, 점프·카메라·장면 전환 실습 |
+| [Unity · C#](https://github.com/seung-gwan/portfolio/blob/main/learning/unity.md) | 손오공 팀 프로젝트와 6개 프로젝트의 코드·장면 기록 |
+| [Unreal Engine](https://github.com/seung-gwan/portfolio/blob/main/learning/unreal-engine.md) | 3월부터 6월까지의 환경 제작 과정, 2개 프로젝트의 맵 자료 |
 | [PyTorch · 생성형 AI](https://github.com/seung-gwan/portfolio/blob/main/learning/generative-ai.md) | 조건부 DDPM 이모지 생성 실습과 학습 로그 |
 | [HTML · CSS · JavaScript](https://github.com/seung-gwan/portfolio/blob/main/learning/web-basics.md) | 웹 기초 예제와 레이아웃 실습 |
 
